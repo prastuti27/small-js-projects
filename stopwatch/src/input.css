@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.btn{
+background-color: rgb(7, 63, 247);
+width: 15%;
+border-radius: 8px;
+padding: 5px;
+}
